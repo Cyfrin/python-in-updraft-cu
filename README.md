@@ -4,6 +4,8 @@ This is part of the Cyfrin Updraft Vyper Course.
 
 You can find the google collab code here: https://colab.research.google.com/drive/1G0jampjfic2wE4eF-rFsH0ewp6q-rKiU?usp=sharing
 
+Or, use the `cyfrin_updraft.ipynb` file in this repo.
+
 - [Python in Updraft](#python-in-updraft)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
